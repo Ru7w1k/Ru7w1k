@@ -6,12 +6,13 @@
 
 
 ### Languages and Tools
-<img align="left" alt="C" width="26px" src="https://api.iconify.design/logos:c.svg" />
-<img align="left" alt="C++" width="26px" src="https://api.iconify.design/logos:c-plusplus.svg" />
-<img align="left" alt="C++" width="26px" src="https://api.iconify.design/logos:go.svg" />
-<img align="left" alt="python" width="26px" src="https://api.iconify.design/logos:python.svg" />
-<img align="left" alt="OpenGL" width="26px" src="https://api.iconify.design/logos:opengl.svg" />
-<img align="left" alt="VisualStudio" width="26px" src="https://api.iconify.design/logos:visual-studio.svg" />
+<img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
+<img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
+<img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:go.svg" />
+<img align="left" alt="python" height="30px" src="https://api.iconify.design/logos:python.svg" />
+<img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
+<img align="left" alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
+
 
 <!--
 **Ru7w1k/Ru7w1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
