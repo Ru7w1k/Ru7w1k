@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋🏼
+
+- 🔭 I’m currently working on golang, python, C, C++
+- 🌱 I’m currently learning OpenGL & DirectX
 
 <!--
 **Ru7w1k/Ru7w1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
