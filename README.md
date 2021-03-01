@@ -1,7 +1,7 @@
 ### Hi there I'm Rutwik 👋🏼
 
 
-- 🔭 I’m currently working on golang, python, C, C++
+- 🔭 I’m currently working on C, C++ and CUDA
 - 🌱 I’m currently learning OpenGL & DirectX
 
 
