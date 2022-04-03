@@ -1,8 +1,8 @@
 ### Hi there I'm Rutwik 👋🏼
 
 
-- 🔭 I’m currently working on C, C++ and CUDA
-- 🌱 I’m currently learning OpenGL & DirectX
+- 🔭 I’m currently working on OpenGL and Vulkan
+- 🌱 I’m currently learning OpenGL & Vulkan
 
 
 ### Languages and Tools
